@@ -1,4 +1,4 @@
-﻿//Script responsible to manage the blue buff, when it is triggered by any ball.
+﻿//Script responsible for managing the blue buff, when it is triggered by any ball.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

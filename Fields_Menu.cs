@@ -1,4 +1,4 @@
-﻿//Script responsible to manage the "stage selection" menu.
+﻿//Script responsible for managing the "stage selection" menu.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

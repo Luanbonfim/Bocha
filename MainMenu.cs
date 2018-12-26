@@ -1,4 +1,4 @@
-﻿//Script responsible to manage the Main Menu.
+﻿//Script responsible for managing the Main Menu.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,4 +1,4 @@
-﻿//Script responsible to manage the text showing the distance between the current player and the white ball (text on the UI).
+﻿//Script responsible for managing the text showing the distance between the current player and the white ball (text on the UI).
 using UnityEngine;
 using UnityEngine.UI;
 

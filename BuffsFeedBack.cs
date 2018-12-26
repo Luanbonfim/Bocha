@@ -1,4 +1,4 @@
-﻿//Script responsible to manage the feedbacks (texts) on the UI, when any buff is triggered.
+﻿//Script responsible for managing the feedbacks (texts on the UI), when any buff is triggered.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

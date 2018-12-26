@@ -1,4 +1,4 @@
-﻿//Script responsible to manage the blue team balls.
+﻿//Script responsible for managing the blue team balls.
 using UnityEngine;
 using UnityEngine.UI;
 public class B_Balls : MonoBehaviour

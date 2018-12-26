@@ -1,4 +1,4 @@
-﻿//Script responsible for managing the blue team's score feedback.
+//Script responsible for managing the blue team's score feedback.
 using UnityEngine;
 using UnityEngine.UI;
 public class B_ScoreFeedBack : MonoBehaviour {

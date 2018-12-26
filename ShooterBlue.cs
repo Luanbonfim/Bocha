@@ -1,4 +1,4 @@
-﻿//Script for the Blue Ball (Blue Team)
+//Script responsible for the Blue Ball's (Blue Team) behavior
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;

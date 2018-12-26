@@ -1,4 +1,4 @@
-﻿//Script responsible to manage the game over menu (when the blue team wins).
+﻿//Script responsible for managing the game over menu (when the blue team wins).
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,4 +1,4 @@
-﻿//Script responsible to manage the bullets spawning, when the black buff is triggered by any ball.
+﻿//Script responsible for managing the bullets spawning, when the black buff is triggered by any ball.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,4 +1,4 @@
-﻿//Script responsible for setting up the white arrow used to choose the direction of the ball before throwing it.
+//Script responsible for setting up the white arrow used to choose the direction of the ball before throwing it.
 using UnityEngine;
 
 [RequireComponent(typeof(LineRenderer))]

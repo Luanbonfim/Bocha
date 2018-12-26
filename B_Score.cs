@@ -1,4 +1,4 @@
-﻿//Script responsible to manage the blue team score.
+﻿//Script responsible for managing the blue team score.
 using UnityEngine;
 using UnityEngine.UI;
 public class B_Score : MonoBehaviour {

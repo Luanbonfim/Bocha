@@ -1,4 +1,4 @@
-﻿//Script for the Red Ball (Red Team)
+//Script responsible for the Red Ball's (Red Team) behavior
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;

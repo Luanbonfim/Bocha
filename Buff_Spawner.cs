@@ -1,4 +1,4 @@
-﻿//Script responsible to manage all the buffs spawning and destroyng.
+﻿//Script responsible for managing all the buffs spawning and destroying.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

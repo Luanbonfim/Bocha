@@ -1,4 +1,4 @@
-﻿//Script responsible to set the audio features that will be shown on the inspector to setup all the audios from the Audio Manager.
+﻿//Script responsible for setting the audio features that will be shown on the inspector to setup all the audios from the Audio Manager.
 using UnityEngine.Audio;
 using UnityEngine;
 
